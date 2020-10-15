@@ -21,7 +21,7 @@ unset($_SESSION['ERRMSG_ARR']);
     </head>
     <body>
         <div id="container">
-            <!-- zone de connexion -->
+            <!-- zone de connexion qui marche -->
             
             <form action="reg.php" method="POST">
                 <h1>Connexion</h1>
